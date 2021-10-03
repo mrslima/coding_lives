@@ -1,4 +1,0 @@
-## MARATONA ZERO AO CÓDIGO | 4ª Edição
-* HTML
-* CSS
-* JAVASCRIPT
